@@ -9,5 +9,7 @@
 <body>
     <h1>Welcome to the git Demo Site</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae, dolore explicabo eos porro quam ullam. Itaque molestiae quaerat voluptatem sint omnis obcaecati in veritatis esse consequatur rem mollitia, ea minima.</p>
+
+    <p>A bit more</p>
 </body>
 </html>
