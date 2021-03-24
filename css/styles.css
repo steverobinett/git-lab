@@ -82,3 +82,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 3em;
 }
+.joestyle {
+    font-style: oblique;
+    font-size: large;
+}
