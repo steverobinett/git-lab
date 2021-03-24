@@ -100,3 +100,14 @@ body {
 .natesBioStyle html {
     background-color: black;
 }
+
+.zachStyle {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.zachHeading {
+    font-size: 36px;
+    background-color: lightgray;
+    margin: 5px;
+}
