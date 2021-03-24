@@ -76,3 +76,18 @@ body {
     color: white;
     margin: 5px;
 }
+
+.natesBioStyle h1 {
+    color: red;
+}
+
+.natesBioStyle h2 {
+    color: Green;
+}
+.natesBioStyle p {
+    color: white;
+}
+
+.natesBioStyle html {
+    background-color: black;
+}
