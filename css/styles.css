@@ -86,17 +86,21 @@ body {
     font-style: oblique;
     font-size: large;
 }
-.natesBioStyle h1 {
+.natesBioStyles > h1 {
     color: red;
 }
 
-.natesBioStyle h2 {
+.natesBioStyles > h2 {
     color: Green;
 }
-.natesBioStyle p {
+.natesBioStyles > p {
     color: white;
 }
 
-.natesBioStyle html {
+.natesBioStyles > li {
+    color: white;
+}
+
+.natesBioStyles {
     background-color: black;
 }
