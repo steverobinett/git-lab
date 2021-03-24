@@ -76,3 +76,27 @@ body {
     color: white;
     margin: 5px;
 }
+
+.josiah_txt{
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 3em;
+}
+.joestyle {
+    font-style: oblique;
+    font-size: large;
+}
+.natesBioStyle h1 {
+    color: red;
+}
+
+.natesBioStyle h2 {
+    color: Green;
+}
+.natesBioStyle p {
+    color: white;
+}
+
+.natesBioStyle html {
+    background-color: black;
+}
