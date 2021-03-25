@@ -23,6 +23,8 @@ body {
 
 .heading {
     font-size: 36px;
+    width: 50%;
+    max-width: 70%;
     background-color: lightgray;
     margin: 5px;
     margin-bottom: 3%;
@@ -35,6 +37,8 @@ body {
 .sub-heading {
     font-size: 24px;
     background-color: rgb(171, 218, 243);
+    width: 50%;
+    max-width: 60%;
     margin: 5px;
     padding: 5px 5px 5px 20px;
     border-radius: 20px;
